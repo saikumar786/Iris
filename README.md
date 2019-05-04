@@ -1,4 +1,4 @@
-# Iris
+# Iris Classification
 Classifying Iris flower whether it belongs to one of its species(Setosa, Versi-color, Virginica)
 
 Taken the famous and well-known dataset named Iris
