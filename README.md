@@ -20,3 +20,15 @@ I have built 2 models for predicting to which species a flower belongs to, based
            
   Model 2: Logistic Regression
            This model also predicted with 97.77 % Accuracy as KNN
+           
+Findings/Observations:
+
+    1. Setosa species features are not similar to either Versi-color or Virginica
+
+    2. Versi-color and Virginica features are overlapped as they are somewhat similar
+
+    3. Setosa is having very less petal_length and petal_width than other 2 species
+
+    4. Virginica is having very high petal_length and petal_width than other 2 species
+
+
